@@ -9,3 +9,5 @@
 8. Check which type of Booking of Hotels has the most Cancellations.
 9. Visualize the Average price of the Cancellation and Non-Cancellation of Hotels over the Years.
 10. Summarize the Reasons for the Cancellation of the Hotels, and give Suggestions according to the Report made for the reduction of the cancellation of the hotel bookings.
+## Hotel Booking Report
+[Project Report on the Hotel Booking Analysis.pdf](https://github.com/user-attachments/files/15846290/Project.Report.on.the.Hotel.Booking.Analysis.pdf)

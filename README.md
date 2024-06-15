@@ -1,13 +1,20 @@
 # Hotel-Booking-Analysis
-1. Analyze the data according to the cancellation and non-cancellation of the Reservation of Hotels.
-2. Compare the Cancellation and non-cancelation between the Resorts and City Hotels.
-3. Visualize the Overall Cancellation of the Resorts and  City Hotels over the years.
-4. Check the Graph of the monthly basis of cancellation and non-cancellation of the Hotels.
-5. Check for the adr ( Booking Pricing ) of the Hotels monthly to check that the price is a reason for the Cancellation.
-6. Fund the top 10 Countries that have the most Cancellations of the Hotels.
-7. Compare the Booking price of the Top two countries that have the most cancellations.
-8. Check which type of Booking of Hotels has the most Cancellations.
-9. Visualize the Average price of the Cancellation and Non-Cancellation of Hotels over the Years.
-10. Summarize the Reasons for the Cancellation of the Hotels, and give Suggestions according to the Report made for the reduction of the cancellation of the hotel bookings.
+## Description
+This project involved a comprehensive analysis of hotel booking data to identify factors influencing cancellations and optimize revenue strategies. Key findings include:
+
+1. Cancellation Trends: Compared cancellation rates between resorts and city hotels, visualizing trends over time.
+2. Monthly Patterns: Analyzed cancellation and non-cancellation rates on a monthly basis to identify seasonal fluctuations.
+3. Pricing Analysis: Investigated the relationship between Average Daily Rate (ADR) and cancellations to assess if pricing influences booking decisions.
+4. Cancellation Origin: Identified the top 10 countries with the highest cancellation rates and compared their booking prices.
+5. Cancellation by Booking Type: Explored cancellation rates across different booking types (e.g., pre-paid, flexible).
+6. Cancellation Cost Analysis: Visualized the average price difference between cancelled and non-cancelled bookings over time.
+7. Cancellation Reasons & Recommendations: Analyzed common cancellation reasons and suggested strategies to reduce cancellations based on the data insights.
+
+## Key Skills Demonstrated:
+
+1. Data analysis expertise for extracting insights from hotel booking data.
+2. Understanding of factors influencing hotel booking behavior.
+3. Proficiency in data visualization techniques to present findings effectively.
+4. Problem-solving skills to identify and suggest solutions for hotel booking cancellations.
 ## Hotel Booking Report
 [Project Report on the Hotel Booking Analysis.pdf](https://github.com/user-attachments/files/15846290/Project.Report.on.the.Hotel.Booking.Analysis.pdf)
